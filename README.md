@@ -8,10 +8,10 @@ This project demonstrates an end-to-end data analytics workflow, including data 
 
 ## 📂 Dataset
 
-* Source: *(add your dataset source here, e.g., Kaggle, internal data, etc.)*
-* Format: CSV / Excel / Database
+* Source: *Kaggle*
+* Format: CSV
 * Description:
-  The dataset contains information about *(briefly describe what the dataset is about, e.g., sales transactions, customer behavior, etc.)*.
+  The dataset contains information about Customer demographics (Age, Gender, Location, Subscription Status), Purchase details (Item Purchased, Category, Purchase Amount, Season, Size, Color), Shopping behavior (Discount Applied, Promo Code Used, Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type).
 
 ---
 
@@ -69,22 +69,24 @@ This project demonstrates an end-to-end data analytics workflow, including data 
 
 Key features:
 
-* KPI overview *(e.g., total sales, growth, etc.)*
-* Trend analysis
-* Category/segment breakdown
-* Interactive filters
+* High-Level Summary Metrics (KPIs)
+* Interactive Filtering Pane
+* Subscription Analysis
+* Category Performance
+* Demographic Segmentation (Age Groups)
 
-*(Add Power BI link or screenshots if available)*
+<img width="1417" height="789" alt="Screenshot_2" src="https://github.com/user-attachments/assets/0e128c0e-6dde-4e73-8882-d91dee847e06" />
 
 ---
 
-## 📈 Results & Insights
+## 📈 Business Recommendations
 
-* Identified key trends and patterns in the data
-* Highlighted important business insights
-* Provided data-driven recommendations
+* Boost Subscriptions – Promote exclusive benefits for subscribers.
+*	Customer Loyalty Program – Reward repeat buyers to move them into the “Loyal” segment.
+*	Review Discount Policy – Balance sales boost with margin control.
+* Product Positioning – Highlight top-rated and best-selling products in campaign.
+*	Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping.
 
-*(Example: Sales increased by 20% in Q4, top-performing category was X, etc.)*
 
 ---
 
@@ -93,7 +95,7 @@ Key features:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ykbintang/customer_behavior_analysis.git
 cd your-repo-name
 ```
 
@@ -152,9 +154,5 @@ python main.py
 
 **Yayes Kasnanda Bintang**
 
-* LinkedIn: *[(Link)](https://www.linkedin.com/in/ykbintang)*
+* LinkedIn: *[Link](https://www.linkedin.com/in/ykbintang)*
 * GitHub: *[Link](https://github.com/ykbintang)*
-
----
-
-If you want, I can customize this README based on your **actual project (e.g., SeaBank sentiment analysis or customer churn project)** so it feels more impactful for recruiters.
