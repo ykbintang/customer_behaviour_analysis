@@ -96,7 +96,7 @@ Key features:
 
 ```bash
 git clone https://github.com/ykbintang/customer_behavior_analysis.git
-cd your-repo-name
+cd customer_behavior_analysis
 ```
 
 ### 2. Install Dependencies
